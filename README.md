@@ -13,3 +13,9 @@ git clone https://github.com/Raphaelmos/minimarketmanage.git
  ```
 
 
+## Improvements 
+
+Translate in a proper english 
+
+More accessibility
+
